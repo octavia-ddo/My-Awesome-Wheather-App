@@ -7,13 +7,15 @@
 }
 
 h1 {
-  background-attachment: scroll background-clip border-box background-color
-      rgba(0, 0, 0, 0) background-image
-      linear-gradient(rgb(36, 84, 148) 0%, rgb(28, 68, 132) 100%)
-      background-origin padding-box background-position-x 0%
-      background-position-y 0% background-repeat-x background-repeat-y
-      background-size auto color rgb(43, 43, 43) display block font-family
-      "Segoe UI",
-    "Segoe WP", Arial,
-    sans-serif height 660px position fixed width 518.4px z-index 5;
+  border-collapse: collapse clear both color rgb(102, 102, 102) display block
+      font-family Roboto,
+    Helvetica,
+    sans-serif font-size 13px font-stretch 100% font-style normal
+      font-variant-caps normal font-variant-east-asian normal
+      font-variant-ligatures normal font-variant-numeric normal font-weight 400
+      height 2635.8px line-height 15.6px list-style-image none
+      list-style-position outside list-style-type none min-height 316px
+      padding-bottom 20px padding-left 160px padding-right 0px padding-top 41px
+      width 928px -webkit-border-horizontal-spacing 0px -webkit-border-vertical-spacing
+      0px;
 }
