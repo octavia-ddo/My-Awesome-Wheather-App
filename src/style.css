@@ -7,15 +7,11 @@
 }
 
 h1 {
-  border-collapse: collapse clear both color rgb(102, 102, 102) display block
-      font-family Roboto,
-    Helvetica,
-    sans-serif font-size 13px font-stretch 100% font-style normal
-      font-variant-caps normal font-variant-east-asian normal
-      font-variant-ligatures normal font-variant-numeric normal font-weight 400
-      height 2635.8px line-height 15.6px list-style-image none
-      list-style-position outside list-style-type none min-height 316px
-      padding-bottom 20px padding-left 160px padding-right 0px padding-top 41px
-      width 928px -webkit-border-horizontal-spacing 0px -webkit-border-vertical-spacing
-      0px;
+  color: #2b2b2b;
+  display: block;
+  font-family: "Segoe UI", "Segoe WP", Arial, sans-serif;
+  grid-column-end: span 1;
+  grid-column-start: 1;
+  grid-row-end: span 2;
+  grid-row-start: 3;
 }
