@@ -3,4 +3,17 @@
   margin: 30px auto;
   padding: 20px;
   border: 1px solid #dadde1;
+  border-radius: 10px;
+}
+
+h1 {
+  background-attachment: scroll background-clip border-box background-color
+      rgba(0, 0, 0, 0) background-image
+      linear-gradient(rgb(36, 84, 148) 0%, rgb(28, 68, 132) 100%)
+      background-origin padding-box background-position-x 0%
+      background-position-y 0% background-repeat-x background-repeat-y
+      background-size auto color rgb(43, 43, 43) display block font-family
+      "Segoe UI",
+    "Segoe WP", Arial,
+    sans-serif height 660px position fixed width 518.4px z-index 5;
 }
