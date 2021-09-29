@@ -12,12 +12,10 @@ body {
 
 h1 {
   color: #2b2b2b;
-  display: block;
   font-size: 24px;
   font-weight: 100;
+  line-height: 28px;
+}
 
-  grid-column-end: span 1;
-  grid-column-start: 1;
-  grid-row-end: span 2;
-  grid-row-start: 3;
+li {
 }
