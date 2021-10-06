@@ -42,14 +42,15 @@ li {
 
 .weather-temperature img {
   margin-right: 40px;
-  height: 220px;
+  height: 70px;
   width: 64px;
 }
 
 .weather-temperature strong {
   color: rgb(33, 33, 33);
+
   font-size: 64px;
-  line-height: 1px;
+  line-height: 50px;
   font-weight: 400;
 }
 
