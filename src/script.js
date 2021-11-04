@@ -64,7 +64,7 @@ function handleSubmit(event) {
 function displayFahrenheitTemperature(event) {
   event.preventDefault();
   let temperatureElement = document.querySelector("#temperature");
-  let fahrenheitTemperature = (14 * 9) / +32;
+  let fahrenheitTemperature = (temperatureElement.innerHTML * 9) / 5 + 32;
   //alert(fahrenheitTemperature);
 
   temperatureElement.innerHTML = Math.round(fahrenheitTemperature);
